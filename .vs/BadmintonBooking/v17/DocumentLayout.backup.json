@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formthanhtoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formlichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formlichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formlichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formlichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj|solutionrelative:badmintonbooking.bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.dal\\badmintoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|solutionrelative:badmintonbooking.dal\\badmintoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.dal\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|solutionrelative:badmintonbooking.dal\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formtinhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formtinhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formtinhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formtinhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\badmintonbooking.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\badmintonbooking.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formtinhtien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formtinhtien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.bus\\badmintonbooking.bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj|solutionrelative:badmintonbooking.bus\\badmintonbooking.bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.dal\\badmintonbooking.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj|solutionrelative:badmintonbooking.dal\\badmintonbooking.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\badmintonbooking.gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|c:\\users\\nduy1\\downloads\\badmintonbooking_efcore_appconfig_fallback\\badmintonbooking.gui\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj|solutionrelative:badmintonbooking.gui\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 178,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLichSu.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormLichSu.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormLichSu.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormLichSu.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormLichSu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:48:18.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormTinhTien.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormTinhTien.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormTinhTien.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:40:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormDangKy.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangKy.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormDangKy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:23:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChinh.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormChinh.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormChinh.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:20:57.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.Designer.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.Designer.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormChinh.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:23:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormDatSan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDatSan.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormDatSan.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDatSan.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormDatSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:28:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BadmintonBooking.BUS.csproj",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj",
+              "RelativeDocumentMoniker": "BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj",
+              "RelativeToolTip": "BadmintonBooking.BUS\\BadmintonBooking.BUS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T15:41:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormThanhToan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.Designer.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormThanhToan.Designer.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.Designer.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormThanhToan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:54:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormTinhTien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.Designer.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormTinhTien.Designer.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.Designer.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormTinhTien.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:51:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormThanhToan.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:40:55.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTinhTien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormTinhTien.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormTinhTien.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormTinhTien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:40:52.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLichSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormLichSu.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormLichSu.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormLichSu.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormLichSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:40:49.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormDangKy.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:37:27.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-28T22:02:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDatSan.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDatSan.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormDatSan.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDatSan.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormDatSan.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:45:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\Models.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.DAL\\Models.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\Models.cs",
+              "RelativeToolTip": "BadmintonBooking.DAL\\Models.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:44:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormThanhToan.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormThanhToan.cs",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormThanhToan.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:35:21.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingBUS.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.BUS\\BookingBUS.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.BUS\\BookingBUS.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.BUS\\BookingBUS.cs",
+              "RelativeToolTip": "BadmintonBooking.BUS\\BookingBUS.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:28:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BadmintonBooking.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj",
+              "RelativeDocumentMoniker": "BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj",
+              "RelativeToolTip": "BadmintonBooking.DAL\\BadmintonBooking.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T21:25:23.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\App.config",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\App.config",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\App.config",
+              "RelativeToolTip": "BadmintonBooking.GUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-28T21:24:54.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:15:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\FormChinh.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\FormChinh.cs [Design]",
+              "RelativeToolTip": "BadmintonBooking.GUI\\FormChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:09:40.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BadmintonContext.cs",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\BadmintonContext.cs",
+              "RelativeDocumentMoniker": "BadmintonBooking.DAL\\BadmintonContext.cs",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.DAL\\BadmintonContext.cs",
+              "RelativeToolTip": "BadmintonBooking.DAL\\BadmintonContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:59:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BadmintonBooking.GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj",
+              "RelativeDocumentMoniker": "BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj",
+              "ToolTip": "C:\\Users\\nduy1\\Downloads\\BadmintonBooking_EFCore_AppConfig_fallback\\BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj",
+              "RelativeToolTip": "BadmintonBooking.GUI\\BadmintonBooking.GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T20:58:37.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

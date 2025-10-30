@@ -1,0 +1,14 @@
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\bin\Debug\net8.0-windows\BadmintonBooking.DAL.deps.json
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\bin\Debug\net8.0-windows\BadmintonBooking.DAL.runtimeconfig.json
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\bin\Debug\net8.0-windows\BadmintonBooking.DAL.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\bin\Debug\net8.0-windows\BadmintonBooking.DAL.pdb
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.csproj.AssemblyReference.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.AssemblyInfoInputs.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.AssemblyInfo.cs
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\refint\BadmintonBooking.DAL.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.pdb
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\BadmintonBooking.DAL.genruntimeconfig.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.DAL\obj\Debug\net8.0-windows\ref\BadmintonBooking.DAL.dll

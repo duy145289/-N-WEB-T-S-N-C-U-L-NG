@@ -1,0 +1,17 @@
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.BUS.deps.json
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.BUS.runtimeconfig.json
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.BUS.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.BUS.pdb
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.DAL.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\bin\Debug\net8.0-windows\BadmintonBooking.DAL.pdb
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.csproj.AssemblyReference.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.AssemblyInfoInputs.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.AssemblyInfo.cs
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.csproj.CoreCompileInputs.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\Badminto.D80F0E58.Up2Date
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\refint\BadmintonBooking.BUS.dll
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.pdb
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\BadmintonBooking.BUS.genruntimeconfig.cache
+C:\Users\nduy1\Downloads\BadmintonBooking_EFCore_AppConfig_fallback\BadmintonBooking.BUS\obj\Debug\net8.0-windows\ref\BadmintonBooking.BUS.dll
